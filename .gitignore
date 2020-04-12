@@ -22,6 +22,9 @@
 # Visual Studio cache directory
 .vs/
 
+# Rider cache directory
+.idea/
+
 # Gradle cache directory
 .gradle/
 
@@ -57,4 +60,10 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
+
+# AssetGraph cache directory
+/Assets/AssetGraph/
+
+# Unity StreamingAssets
+/Assets/StreamingAssets/
 
